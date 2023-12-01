@@ -4,6 +4,7 @@ As a frontend developer with experinece in product design, user interface and us
 <br/>
 
 <hr/>
+
 ## Skillset
 
 <div>
@@ -19,12 +20,11 @@ As a frontend developer with experinece in product design, user interface and us
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"  title="express" alt="express" width=60 height=60/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"  title="mongodb" alt="mongodb" width=60 height=60/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width=60 height=60 />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width=60 height=60 />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width=60 height=60 />&nbsp;
 </div>
 <hr>
 
 ### :fire: My Stats :
-
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=esteriella&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=esteriella&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&ring=49D0DD)](https://git.io/streak-stats)
