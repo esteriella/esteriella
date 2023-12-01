@@ -20,7 +20,7 @@ As a frontend developer with experinece in product design, user interface and us
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"  title="express" alt="express" width=60 height=60/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"  title="mongodb" alt="mongodb" width=60 height=60/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width=60 height=60 />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width=60 height=60 />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width=60 height=60 />&nbsp;
 </div>
 <hr>
 
