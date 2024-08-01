@@ -1,6 +1,6 @@
-👋 Hello, I’m Opeyemi, a Frontend Web Developer.
+👋 Hello there! I'm Opeyemi. 
 <br/>
-As a frontend developer with experinece in product design, user interface and user experience design, I am responsible for designing and developing the user interface of web applications. This includes creating wireframes and mockups using Figma, writing code using frontend web development tools/frameworks, and testing the application to ensure that it is responsive and user-friendly. Additionally, I work closely with other teams such as product managers and designers to ensure that the application meets the needs of users and aligns with overall business goals. I also use Git and GitHub to manage version control of the codebase.
+A passionate and innovative frontend developer with a keen eye for design and a knack for turning ideas into visually stunning, user-friendly experiences. My journey in the ever-evolving realm of web development has equipped me with a versatile skill set, making me proficient in a variety of technologies and tools.
 <br/>
 
 <hr/>
